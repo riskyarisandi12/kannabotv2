@@ -44,11 +44,11 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // Wajib diisi ya kak!, kalo ga punya biarin aja, biar ada creditsnya :v
-global.sig = 'https://www.instagram.com/kontol_elite'
-global.sgh = 'https://github.com/Jikarinka'
-global.sgc = 'https://chat.whatsapp.com/FF1Bd1U0FHu42rfz6uplbn'
-global.sdc = " "
-global.snh = 'https://nhentai.net/g/365296/'
+global.sig = 'https://www.instagram.com/risky_arisandi12/'
+global.sgh = 'https://github.com/riskyarisandi12'
+global.sgc = 'https://chat.whatsapp.com/CjeZY7Nsj8ECEwGEYtqJD5'
+global.sdc = "-"
+global.snh = '-'
 
 /*============== PAYMENT ==============*/
 global.pdana = '0895613101691'
@@ -56,7 +56,7 @@ global.povo = '0895613101691'
 global.pgopay = '0895613101691'
 global.ppulsa = '0895613101691'
 global.ppulsa2 = '0895613101691'
-global.psaweria = '-'
+global.psaweria = 'https://saweria.co/riskyarisandi12'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6289669299468'
