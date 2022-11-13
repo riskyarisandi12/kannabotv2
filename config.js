@@ -51,26 +51,26 @@ global.sdc = '-'
 global.snh = '-'
 
 /*============== PAYMENT ==============*/
-global.pdana = '0895613101691'
-global.povo = '0895613101691'
-global.pgopay = '0895613101691'
-global.ppulsa = '0895613101691'
-global.ppulsa2 = '0895613101691'
+global.pdana = '083814346766'
+global.povo = '083814346766'
+global.pgopay = '083814346766'
+global.ppulsa = '083814346766'
+global.ppulsa2 = '083814346766'
 global.psaweria = 'https://saweria.co/riskyarisandi12'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6289669299468'
-global.nomorown = '62895613101691'
-global.namebot = '𝔼𝕒𝕫𝕪𝕪𝔹𝕠𝕥'
-global.nameown = '𝐑𝐈𝐒𝐊𝐘 𝐀𝐑𝐈𝐒𝐀𝐍𝐃𝐈'
+global.nomorbot = '623831242402'
+global.nomorown = '6283814346766'
+global.namebot = '𝐘𝐮𝐝𝐢 𝐗𝐃'
+global.nameown = '𝗪𝗮𝗵𝘆𝘂𝗱𝗶'
 
 
 /*============== STAFF ==============*/
 global.owner = [
   ['62895613101691'],
-  ['6287734910547'],
-  ['62895613101691'],
-  ['62895613101691', '𝐑𝐈𝐒𝐊𝐘 𝐀𝐑𝐈𝐒𝐀𝐍𝐃𝐈', true]
+  ['083814346766'],
+  ['083814346766'],
+  ['083814346766', '𝗪𝗮𝗵𝘆𝘂𝗱𝗶', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
