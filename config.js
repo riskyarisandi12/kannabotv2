@@ -46,31 +46,31 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 // Wajib diisi ya kak!, kalo ga punya biarin aja, biar ada creditsnya :v
 global.sig = 'https://www.instagram.com/risky_arisandi12/'
 global.sgh = 'https://github.com/riskyarisandi12'
-global.sgc = 'https://chat.whatsapp.com/CjeZY7Nsj8ECEwGEYtqJD5'
+global.sgc = 'https://chat.whatsapp.com/Hch9gw65S8C3wXmu2byY3A'
 global.sdc = '-'
 global.snh = '-'
 
 /*============== PAYMENT ==============*/
-global.pdana = '083814346766'
-global.povo = '083814346766'
-global.pgopay = '083814346766'
-global.ppulsa = '083814346766'
-global.ppulsa2 = '083814346766'
+global.pdana = '0895613101691'
+global.povo = '0895613101691'
+global.pgopay = '0895613101691'
+global.ppulsa = '0895613101691'
+global.ppulsa2 = '0895613101691'
 global.psaweria = 'https://saweria.co/riskyarisandi12'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '623831242402'
-global.nomorown = '6283814346766'
-global.namebot = '𝐘𝐮𝐝𝐢 𝐗𝐃'
-global.nameown = '𝗪𝗮𝗵𝘆𝘂𝗱𝗶'
+global.nomorbot = '628990869266'
+global.nomorown = '62895613101691'
+global.namebot = '𝐊𝐚𝐧𝐧𝐚 𝐁𝐨𝐭'
+global.nameown = '𝐑𝐈𝐒𝐊𝐘 𝐀𝐑𝐈𝐒𝐀𝐍𝐃𝐈'
 
 
 /*============== STAFF ==============*/
 global.owner = [
   ['62895613101691'],
-  ['083814346766'],
-  ['083814346766'],
-  ['083814346766', '𝗪𝗮𝗵𝘆𝘂𝗱𝗶', true]
+  ['62895613101691'],
+  ['62895613101691'],
+  ['62895613101691', '𝐑𝐈𝐒𝐊𝐘 𝐀𝐑𝐈𝐒𝐀𝐍𝐃𝐈', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
