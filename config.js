@@ -59,7 +59,7 @@ global.ppulsa2 = '0895613101691'
 global.psaweria = 'https://saweria.co/riskyarisandi12'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '628990869266'
+global.nomorbot = '62895613101691'
 global.nomorown = '62895613101691'
 global.namebot = '𝐊𝐚𝐧𝐧𝐚 𝐁𝐨𝐭'
 global.nameown = '𝐑𝐈𝐒𝐊𝐘 𝐀𝐑𝐈𝐒𝐀𝐍𝐃𝐈'
